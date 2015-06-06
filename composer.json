@@ -1,0 +1,19 @@
+{
+  "name": "pingle/multiarraysorting",
+  "description": "Sort the multidimensional array",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Faiz Rasool",
+      "email": "faiz708@gmail.com"
+    }
+  ],
+  "autoload" : {
+    "psr-4": {
+      "azi\\" : ["Pingle"]
+    }
+  },
+  "require": {
+    "php": ">=5.4"
+  }
+}
